@@ -14,3 +14,15 @@ This repository contains my Python-based cybersecurity practice projects and net
 - Scapy
 - Socket
 - Wireshark
+- 
+## python-cybersec/
+│
+├── basics/
+├── networking/
+├── automation/
+├── scanners/
+├── cryptography/
+├── packet-analysis/
+├── notes/
+├── README.md
+└── requirements.txt
