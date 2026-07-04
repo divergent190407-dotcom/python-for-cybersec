@@ -1,4 +1,13 @@
-
+## startegy
+- recon
+- gather intelligence
+- scan
+- identify vulnerabi
+- exploit
+- test weaknesses
+- report
+- document findings
+- 
 ```python
 name = "Prachi"
 ```
