@@ -349,5 +349,3 @@ Store it in a variable and print:
 Target website is <website>
 ```
 
-Once you've done these 3 tasks, the next topic should be **Operators (+, -, *, /, ==, !=, >, <)** because they're needed before learning `if` statements and loops.
-
